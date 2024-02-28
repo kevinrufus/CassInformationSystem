@@ -1,0 +1,6 @@
+.quote-card-bg{
+    background-image: linear-gradient(to right, #f69f00b3 , #fb823c);
+    /* background: orange;  */
+    padding: 20px;
+    border-radius: 5px;
+}

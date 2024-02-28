@@ -1,0 +1,52 @@
+<div class="d-flex flex-row justify-content-center quote-card-bg">
+  <div class="card text-center" style="width: 58rem">
+    <div class="card-body">
+      <h5 class="card-title">{{ quote.author }}</h5>
+      <p class="card-text">
+        <span> <fa-icon [icon]="faQuote"></fa-icon></span> {{ quote.content }}
+      </p>
+    </div>
+  </div>
+</div>
+
+<nav>
+  <div class="nav nav-tabs mt-5" id="nav-tab" role="tablist">
+    <button
+      class="nav-link"
+      type="button"
+      role="tab"
+      (click)="changeTab('short')"
+      [ngClass]="currentTab === 'short' ? 'active' : ''"
+    >
+      Short Length Quotes
+    </button>
+    <button
+      class="nav-link"
+      type="button"
+      role="tab"
+      (click)="changeTab('medium')"
+      [ngClass]="currentTab === 'medium' ? 'active' : ''"
+    >
+      Meduim Length Quotes
+    </button>
+    <button
+      class="nav-link"
+      type="button"
+      role="tab"
+      (click)="changeTab('long')"
+      [ngClass]="currentTab === 'long' ? 'active' : ''"
+    >
+      Long Length Quotes
+    </button>
+  </div>
+</nav>
+
+<ng-container *ngIf="currentTab === 'short'">
+    <app-quotes-list [data]="quotesList.shortLengthQuotes"></app-quotes-list>
+</ng-container>
+<ng-container *ngIf="currentTab === 'medium'">
+    <app-quotes-list [data]="quotesList.mediumLengthQuotes"></app-quotes-list>
+</ng-container>
+<ng-container *ngIf="currentTab === 'long'">
+    <app-quotes-list [data]="quotesList.longLengthQuotes"></app-quotes-list>
+</ng-container>

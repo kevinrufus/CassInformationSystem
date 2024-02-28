@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\bin\Debug\net7.0\CassInformationSystem.EnitiyFramework.deps.json
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\bin\Debug\net7.0\CassInformationSystem.EnitiyFramework.runtimeconfig.json
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\bin\Debug\net7.0\CassInformationSystem.EnitiyFramework.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\bin\Debug\net7.0\CassInformationSystem.EnitiyFramework.pdb
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\refint\CassInformationSystem.EnitiyFramework.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.pdb
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\CassInformationSystem.EnitiyFramework.genruntimeconfig.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.EnitiyFramework\obj\Debug\net7.0\ref\CassInformationSystem.EnitiyFramework.dll

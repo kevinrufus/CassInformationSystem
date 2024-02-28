@@ -1,0 +1,46 @@
+<div class="modal-header">
+  <h4 class="modal-title">Shipper And Shipments Details</h4>
+  <button
+    type="button"
+    class="btn-close"
+    aria-label="Close"
+    (click)="activeModal.dismiss('Cross click')"
+  ></button>
+</div>
+<div class="modal-body">
+  <div class="d-flex mt-5 mb-5">
+    <table class="table table-striped table-responsive">
+      <thead>
+        <tr>
+          <th scope="col">Shippement Id</th>
+          <th scope="col">Shipper Name</th>
+          <th scope="col">Carrier Name</th>
+          <th scope="col">Shipment Description</th>
+          <th scope="col">Shipment Weight</th>
+          <th scope="col">Shipment Rate Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <ng-container *ngFor="let item of shipmentDetails; let i = index">
+          <tr>
+            <th scope="row">{{ item.shipment_Id }}</th>
+            <td>{{ item.shipper_Name }}</td>
+            <td>{{ item.carrier_Name }}</td>
+            <td>{{ item.shipment_Description }}</td>
+            <td>{{ item.shipment_Weight }}</td>
+            <td>{{ item.shipment_Rate_Description }}</td>
+          </tr>
+        </ng-container>
+      </tbody>
+    </table>
+  </div>
+</div>
+<div class="modal-footer">
+  <button
+    type="button"
+    class="btn btn-outline-dark"
+    (click)="activeModal.close('Close click')"
+  >
+    Close
+  </button>
+</div>

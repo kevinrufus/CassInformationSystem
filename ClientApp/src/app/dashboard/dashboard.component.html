@@ -1,0 +1,12 @@
+<h1 class="mt-5">Shippers List</h1>
+<div class="d-flex flex-row">
+  <table class="table table-striped mt-5">
+    <tbody style="cursor: pointer">
+      <ng-container *ngFor="let item of shippersList">
+        <tr>
+          <td (click)="clickedItem(item.shipperId)">{{ item.shipperName }}</td>
+        </tr>
+      </ng-container>
+    </tbody>
+  </table>
+</div>

@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\bin\Debug\net7.0\CassInformationSystem.Application.deps.json
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\bin\Debug\net7.0\CassInformationSystem.Application.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\bin\Debug\net7.0\CassInformationSystem.Application.pdb
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\refint\CassInformationSystem.Application.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.pdb
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\ref\CassInformationSystem.Application.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\bin\Debug\net7.0\CassInformationSystem.EnitiyFramework.dll
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\bin\Debug\net7.0\CassInformationSystem.EnitiyFramework.pdb
+C:\Users\Hp\source\repos\CassInformationSystemApi\CassInformationSystem.Application.Contracts\obj\Debug\net7.0\CassInformationSystem.Application.csproj.CopyComplete
